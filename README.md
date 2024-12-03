@@ -2,7 +2,8 @@
 
 # Below services are used in this project.
 1. VPC
-2. Auto scaling group
-3. Bastion or jump host
-4. Application load balancer
-5. Target Group
+2. Nated gateway
+3. Auto scaling group
+4. Bastion or jump host
+5. Application load balancer
+6. Target Group
