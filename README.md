@@ -2,7 +2,7 @@
 
 # Below services are used in this project.
 1. VPC
-2. Nated gateway
+2. NAT gateway
 3. Auto scaling group
 4. Bastion or jump host
 5. Application load balancer
