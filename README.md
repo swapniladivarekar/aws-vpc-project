@@ -1,4 +1,4 @@
-# This is Realtime production grade project with VPC to deploy your application securly on EC2.
+# This is a realtime production grade project with VPC to deploy your application securly on EC2.
 
 # Below services are used in this project.
 1. VPC
